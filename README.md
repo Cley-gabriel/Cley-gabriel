@@ -7,7 +7,7 @@
 
 ![Cley-gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Cley-gabriel&show_icons=true&theme=highcontrast)
 
-## Tecnologias que uso no dia
+## Tecnologias
 
 <div style = "display: inline_block"><br/> 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">

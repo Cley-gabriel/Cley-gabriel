@@ -21,7 +21,7 @@
   
 </div><br/>
 
-#### Sou apaixonado por tecnologia, sempre tive curiosidade para entender como as coisas funcionam. Gosto de desafios e de criar soluções eficazes, estou sempre buscando o aprimoramento profissional e pessoal.
+#### Gosto da tecnologia e sempre busquei compreender como ela funciona. Gosto de encarar desafios e criar soluções inovadoras que realmente façam a diferença. Meu compromisso é com o aprimoramento constante, tanto no aspecto profissional quanto no pessoal. Estou sempre aprendendo algo novo para ampliar meus conhecimentos e melhorar minhas habilidades, pois acredito que essa é a chave para o crescimento contínuo e o sucesso em minha carreira.
 
 ## Contato 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielcley23@hotmail.com)

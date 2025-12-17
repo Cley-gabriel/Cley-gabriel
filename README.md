@@ -21,7 +21,7 @@
   
 </div><br/>
 
-#### Gosto da tecnologia e sempre busquei compreender como ela funciona. Gosto de encarar desafios e criar soluções inovadoras que realmente façam a diferença. Meu compromisso é com o aprimoramento constante, tanto no aspecto profissional quanto no pessoal. Estou sempre aprendendo algo novo para ampliar meus conhecimentos e melhorar minhas habilidades, pois acredito que essa é a chave para o crescimento contínuo e o sucesso em minha carreira.
+#### Profissional de tecnologia com atuação em Desenvolvimento de Software, Análise de Sistemas e Jogos Digitais, focado na criação de soluções eficientes, bem estruturadas e orientadas a resultados. Possuo perfil analítico, forte base em lógica de programação e experiência prática com sistemas, jogos, computação gráfica e UI/UX, atuando de forma consistente na construção de soluções que gerem valor real para usuários e organizações.
 
 ## Contato 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielcley23@hotmail.com)
